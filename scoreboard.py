@@ -1,4 +1,5 @@
 import time
+from gpiozero import LED, Button
 score1 = 0
 score2 = 0
 tenthup = "false"
